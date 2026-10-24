@@ -1,0 +1,15 @@
+JOB TITLE: Junior Data Analyst
+
+The analyst will support reporting and business analysis by preparing datasets, identifying trends, and creating clear dashboards for stakeholders.
+
+Required skills:
+SQL, Excel, Python, pandas, data cleaning, data visualization, statistics, dashboards, analytical thinking, communication.
+
+Responsibilities:
+- Clean and validate data from multiple sources.
+- Write SQL queries and prepare recurring reports.
+- Build dashboards using Power BI or Tableau.
+- Explain findings clearly to non-technical colleagues.
+
+Preferred:
+Experience with retail or customer datasets and a portfolio of analytical projects.
