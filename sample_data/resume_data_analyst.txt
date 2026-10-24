@@ -1,0 +1,26 @@
+MEERA PATEL
+Junior Data Analyst
+Email: meera.patel@example.com | Phone: 90000 10002
+Location: Vadodara, Gujarat
+
+PROFESSIONAL SUMMARY
+Detail-oriented graduate interested in turning data into useful business insights through analysis, visualization, and clear reporting.
+
+SKILLS
+Python, SQL, Excel, Power BI, Tableau, pandas, data cleaning, data visualization, statistics, dashboards
+
+EDUCATION
+B.Sc. Statistics | Gujarat State College | 2022–2025
+
+PROJECTS
+Retail Sales Dashboard — Cleaned sample sales data and created a Power BI dashboard to show monthly trends and top products.
+Student Performance Analysis — Used Python and pandas to summarize scores and visualize patterns.
+
+EXPERIENCE
+Data Intern | InsightSpring | Jan 2025–Apr 2025
+- Cleaned spreadsheet data and checked for missing values.
+- Prepared weekly Excel reports for the project team.
+- Built charts and summarized trends for review meetings.
+
+CERTIFICATIONS
+Excel for Data Analysis
