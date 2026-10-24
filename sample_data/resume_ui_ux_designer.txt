@@ -1,0 +1,26 @@
+RIYA DESAI
+Junior UI/UX Designer
+Email: riya.desai@example.com | Phone: 90000 10003
+Location: Surat, Gujarat
+
+PROFESSIONAL SUMMARY
+Creative junior designer focused on intuitive digital experiences, accessible interfaces, and user-centered design.
+
+SKILLS
+Figma, wireframing, prototyping, user research, usability testing, user flows, information architecture, design systems, accessibility, collaboration
+
+EDUCATION
+B.Des in Communication Design | Creative Arts Institute | 2022–2026
+
+PROJECTS
+Campus Connect App — Designed onboarding and event-discovery flows; tested prototypes with five student volunteers.
+Local Store Website — Created responsive page wireframes and a small reusable component library.
+
+EXPERIENCE
+UI/UX Design Intern | PixelNest Studio | Feb 2026–May 2026
+- Prepared low- and high-fidelity wireframes in Figma.
+- Gathered feedback during usability testing and iterated on screens.
+- Worked with developers to clarify interaction details.
+
+CERTIFICATIONS
+Introduction to UX Research

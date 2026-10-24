@@ -1,0 +1,26 @@
+AARAV SHAH
+Software Developer
+Email: aarav.shah@example.com | Phone: 90000 10001
+Location: Ahmedabad, Gujarat
+
+PROFESSIONAL SUMMARY
+Entry-level software developer with project experience building small web applications and a strong interest in clean, maintainable code.
+
+SKILLS
+Python, Java, C++, SQL, HTML, CSS, JavaScript, Git, debugging, object-oriented programming
+
+EDUCATION
+B.Tech in Information Technology | Western Institute of Technology | 2022–2026
+
+PROJECTS
+Student Task Manager — Built a simple task-tracking web app with login, task status, and SQL data storage.
+Library Record System — Created a C++ console application using classes and file handling.
+
+EXPERIENCE
+Software Development Intern | BrightByte Labs | May 2025–July 2025
+- Fixed minor bugs and tested features with a mentor.
+- Used Git branches and code reviews during weekly tasks.
+- Documented setup steps for a small internal tool.
+
+CERTIFICATIONS
+Python Programming Fundamentals
