@@ -1,0 +1,15 @@
+JOB TITLE: Junior Software Developer
+
+We are looking for an entry-level developer to help build and maintain web applications. The candidate should understand programming fundamentals, object-oriented programming, debugging, and SQL databases.
+
+Required skills:
+Python or Java, object-oriented programming, SQL, HTML, CSS, JavaScript, Git, debugging, problem-solving, testing.
+
+Responsibilities:
+- Implement and test small application features.
+- Debug issues and maintain readable code.
+- Work with team members using Git.
+- Document technical changes and participate in code reviews.
+
+Preferred:
+Experience with web projects, C++, APIs, or a software development internship.
